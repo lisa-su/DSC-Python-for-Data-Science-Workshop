@@ -1,1 +1,1 @@
-# DSC-Data-Science-101-Workshop
+# DSC-Python-for-Data-Science-Workshop
