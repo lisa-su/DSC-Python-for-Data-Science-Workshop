@@ -14,7 +14,7 @@
               "type": "tab-area",
               "currentIndex": 0,
               "widgets": [
-                "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb.ipynb"
+                "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb"
               ]
             },
             {
@@ -27,7 +27,7 @@
           ]
         },
         "mode": "multiple-document",
-        "current": "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb.ipynb"
+        "current": "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb"
       },
       "left": {
         "collapsed": false,
@@ -47,9 +47,9 @@
     "file-browser-filebrowser:cwd": {
       "path": "datasci_workshop"
     },
-    "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb.ipynb": {
+    "notebook:datasci_workshop/data-science-tutorial-for-beginners.ipynb": {
       "data": {
-        "path": "datasci_workshop/data-science-tutorial-for-beginners.ipynb.ipynb",
+        "path": "datasci_workshop/data-science-tutorial-for-beginners.ipynb",
         "factory": "Notebook"
       }
     },
