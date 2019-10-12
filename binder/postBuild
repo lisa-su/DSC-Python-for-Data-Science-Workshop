@@ -3,7 +3,7 @@ set -ex
 invoke build --env-name=root --no-kernel
 invoke talk -t datasci_workshop
 rm -rf intro-to-python
-rm data-science-tutorial-for-beginners.ipynb.ipynb
+rm data-science-tutorial-for-beginners.ipynb
 rm machine-learning-tutorial-for-beginners.ipynb
 jupyter lab clean
 

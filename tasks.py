@@ -7,7 +7,7 @@ from subprocess import check_output
 from shutil import which
 import shutil
 
-env_name = 'jupyterlab-demo'
+env_name = 'datasci_workshop'
 demofolder = 'demofiles'
 source = '' if os.name == 'nt' else 'source'
 
