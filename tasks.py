@@ -48,6 +48,7 @@ def build(ctx, env_name=env_name, kernel=True):
     '''
     ctx.run("""
         {0!s} activate {1!s} &&
+        jupyter labextension install @jupyterlab/toc@1.0 --no-build &&
         jupyter labextension install @jupyterlab/fasta-extension@1.0 --no-build &&
         jupyter labextension install @jupyterlab/geojson-extension@1.0 --no-build &&
         jupyter labextension install @jupyterlab/plotly-extension@1.0 --no-build &&
