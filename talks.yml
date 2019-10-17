@@ -4,3 +4,4 @@ datasci_workshop:
         - machine-learning-tutorial-for-beginners.ipynb
     folders:
         intro-to-python: intro-to-python
+        churn-modeling: churn-modeling
